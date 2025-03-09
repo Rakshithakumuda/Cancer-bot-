@@ -1,4 +1,4 @@
-# Cancer-bot-
+# Cancer-bot- The Cancer Nutrition Bot is an innovative web application designed to support cancer patients by providing personalized nutrition recommendations, real-time peer support through chat rooms, and access to the latest research and motivational content. This project aims to enhance patient well-being by offering a holistic approach to cancer management, combining nutritional guidance with emotional support and community engagement.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
